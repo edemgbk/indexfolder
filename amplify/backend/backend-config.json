@@ -1,0 +1,10 @@
+{
+    "auth": {
+        "indexfolder71475f50": {
+            "service": "Cognito",
+            "providerPlugin": "awscloudformation",
+            "dependsOn": [],
+            "customAuth": false
+        }
+    }
+}
